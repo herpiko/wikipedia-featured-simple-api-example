@@ -1,6 +1,6 @@
 # Wikipeda Featured simple API
 
-Just static data, for learning purpose.
+Just static data, for learning purpose. All in JSON.
 
 - `npm install`
 - `node index.js`
